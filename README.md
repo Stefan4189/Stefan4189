@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hello, I'm Stefan </a> 👋</b></h1>
 </p>
 
-- <a href="https://stefan4189.github.io">ContentCreator </a>
+- <a href="https://stefan4189.github.io">Content Creator </a>
 & </a>
 <a href="https://discord.com/invite/KgmHVEQWAt">Owner of Stefan's Discord</a>
 
